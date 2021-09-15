@@ -1,0 +1,16 @@
+/c/Users/$user/PycharmProjects/sublimepython
+
+git add help.py
+git commit -am "added new code"
+git push
+
+
+
+initial setup
+git config --global user.name krishnasgithub
+git config --global user.email "krishnasgithub@gmail.com"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
+
+
