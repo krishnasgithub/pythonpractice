@@ -1,7 +1,7 @@
 /c/Users/$user/PycharmProjects/sublimepython
 
-git add help.py
-git commit -am "added new code"
+git add <filename>
+git commit -am <"reason for change">
 git push
 
 
