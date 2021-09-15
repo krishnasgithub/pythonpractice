@@ -1,8 +1,13 @@
 /c/Users/$user/PycharmProjects/sublimepython
 
+
 git add <filename>
 git commit -am <"reason for change">
 git push
+
+
+
+
 
 
 
@@ -41,9 +46,6 @@ git push -u origin main
 
 
 
-
-
-
-
+Video :-
 https://www.youtube.com/watch?v=Lk6jCVAS3Iw
 
